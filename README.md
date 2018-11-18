@@ -1,2 +1,2 @@
 # FreeCodeCampProjects
-Projects from Free Code Camp curriculum
+Projects from Free Code Camp curriculum - 
